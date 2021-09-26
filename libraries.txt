@@ -1,0 +1,8 @@
+installed libraries 
+
+
+cvzone [pip install cvzone==1.4.1] 
+mediapipe
+pynput
+
+
